@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1657063007870.xml" value="0.3752166377816291" />
+        <entry key="../../../../layout/compose-model-1657146812341.xml" value="0.5854545454545454" />
+        <entry key="../../../../layout/compose-model-1657150321481.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1657218069714.xml" value="0.26205903527717783" />
+        <entry key="../../../../layout/compose-model-1657289152053.xml" value="0.2609791216702664" />
+        <entry key="../../../../layout/compose-model-1657560730264.xml" value="0.2595392368610511" />
+        <entry key="../../../../layout/compose-model-1657562302971.xml" value="0.30447635135135137" />
+        <entry key="../../../../layout/compose-model-1657562530937.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1657562566581.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1657754155834.xml" value="0.26851851851851855" />
+        <entry key="../../../../layout/compose-model-1657818764351.xml" value="0.30447635135135137" />
+        <entry key="../../../../layout/compose-model-1657818794888.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1657821799570.xml" value="0.30447635135135137" />
+        <entry key="../../../../layout/compose-model-1657822279431.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1657822601965.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1657918765944.xml" value="0.4212962962962963" />
+        <entry key="../../../../layout/compose-model-1657922177130.xml" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
